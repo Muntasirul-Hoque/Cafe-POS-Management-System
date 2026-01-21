@@ -1,46 +1,46 @@
 # ☕ Café POS Management System
 
-[cite_start]A robust, desktop-based Point of Sale (POS) solution built with **C#** and **.NET**, designed to streamline cafe operations through automated inventory tracking and role-based management[cite: 12, 24].
+A robust, desktop-based Point of Sale (POS) solution built with **C#** and **.NET**, designed to streamline cafe operations through automated inventory tracking and role-based management.
 
 ## 🚀 Overview
-[cite_start]This project is an Object-Oriented Programming (OOP) based Windows Forms Application[cite: 24, 30]. [cite_start]It provides a structured, user-friendly desktop interface to manage cafe operations through a secure, role-based access system[cite: 25]. [cite_start]The system utilizes Visual Studio Server Explorer for efficient database management and data storage[cite: 26].
+This project is an Object-Oriented Programming (OOP) based Windows Forms Application developed using the .NET Framework. It provides a structured, user-friendly desktop interface to manage operations through a secure, role-based access system. The application uses Visual Studio Server Explorer for database management, ensuring secure and efficient data storage and retrieval.
 
 ## ✨ Key Features
 
 ### 👤 Admin Capabilities
-* [cite_start]**User & Staff Management**: Full control to add, update, and remove employee data[cite: 37, 39].
-* [cite_start]**Menu Management**: Category-wise management including adding, updating, and deleting items[cite: 42, 45, 46].
-* [cite_start]**Inventory Tracking**: Monitor stock levels with automatic updates after sales and a low-stock alert system[cite: 48, 50, 54].
-* [cite_start]**Reports & Analytics**: Generate best-selling product reports and view sales performance via a 3-4 month sales graph[cite: 62, 65, 67].
+* **User & Staff Management**: Full control to add, update, and remove employee data, and manage the admin profile.
+* **Menu Management**: Category-wise management including adding, updating, and deleting menu items for dine-in and takeaway.
+* **Inventory Tracking**: Monitor stock of products and ingredients with automatic updates after sales and a low-stock alert system.
+* **Reports & Analytics**: Generate best-selling product reports and view sales performance via a 3-4 month sales graph.
 
 ### 🧑‍💼 Employee Capabilities
-* [cite_start]**Order Processing**: Efficiently handle dine-in and takeaway orders[cite: 70].
-* [cite_start]**Billing & Payments**: Generate instant bills and process payments via cash, card, or digital methods[cite: 71, 58].
-* [cite_start]**Real-time Stock**: View current product lists and stock availability directly from the dashboard[cite: 72].
+* **Order Processing**: Efficiently handle dine-in and takeaway orders.
+* **Billing & Payments**: Generate instant bills and process payments via cash, card, or digital methods, applying taxes and discounts as needed.
+* **Real-time Stock**: View current product lists and stock availability directly from the dashboard.
 
 ## 🛠️ Technical Stack
-* [cite_start]**Language**: C# [cite: 24]
-* [cite_start]**Framework**: .NET Framework (Windows Forms) [cite: 24, 31]
-* [cite_start]**Database**: Visual Studio Server Explorer [cite: 26]
-* [cite_start]**Design Principles**: Object-Oriented Programming (Encapsulation, Reusability, and Scalability) [cite: 30]
+* **Language**: C# 
+* **Framework**: .NET Framework (Windows Forms)
+* **Database**: Visual Studio Server Explorer
+* **Design Principles**: Object-Oriented Programming (Encapsulation, Reusability, and Scalability)
 
 ## 📊 Database Design
-[cite_start]The system architecture is backed by a normalized database (up to **2NF**) to ensure data consistency and eliminate redundancy[cite: 218].
+The system architecture is backed by a database normalized up to the Second Normal Form (2NF) to ensure data consistency and eliminate redundancy.
 
+### Core Relations:
+* **Admin/Employees**: Secured user credentials, salary information, and contact details.
+* **Inventory**: Tracking Item IDs, categories, pricing, stock levels, and items sold.
+* **Orders**: Transactional data including date, total, order type, and payment method, linked to users via Foreign Keys.
 
-
-[cite_start]The core relations identified include[cite: 151, 153, 157, 159]:
-* **Admin/Employees**: Secured user credentials and profile data.
-* **Inventory**: Product details, categories, pricing, and stock count.
-* **Orders**: Transactional data linked to users via Foreign Keys.
-
-## 📝 Contributors (Group 03)
+## 📝 Contributors (Group 03 - Section P)
 | Name | ID |
 | :--- | :--- |
-| **Muntasirul Hoque** | 23-53907-3 
-| **Rifat Bin Halim** | 23-54711-3 
-| **Md Abu Saieed** | 23-54744-3 
-| **Md Fahim Hossain Khan** | 24-56561-1
+| **HOQUE, MUNTASIRUL** | 23-53907-3 |
+| **HALIM, RIFAT BIN** | 23-54711-3 |
+| **SAIEED, MD ABU** | 23-54744-3 |
+| **KHAN, MD FAHIM HOSSAIN** | 24-56561-1 |
 
 ---
-**Supervised By:** Noboranjan Dey, Dept. of Computer Science, AIUB.
+**Supervised By:** Noboranjan Dey  
+**Institution:** American International University-Bangladesh (AIUB)  
+**Course:** CSC 2210: Object Oriented Programming 2 (Fall 2025-2026)
