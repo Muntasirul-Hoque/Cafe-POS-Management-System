@@ -1,0 +1,83 @@
+E:\AIUB\Class\C#\Project\Cafe POS\Cafe POS\bin\Debug\Cafe POS.exe.config
+E:\AIUB\Class\C#\Project\Cafe POS\Cafe POS\bin\Debug\Cafe POS.exe
+E:\AIUB\Class\C#\Project\Cafe POS\Cafe POS\bin\Debug\Cafe POS.pdb
+E:\AIUB\Class\C#\Project\Cafe POS\Cafe POS\obj\Debug\Cafe POS.csproj.AssemblyReference.cache
+E:\AIUB\Class\C#\Project\Cafe POS\Cafe POS\obj\Debug\Cafe_POS.LogIn.resources
+E:\AIUB\Class\C#\Project\Cafe POS\Cafe POS\obj\Debug\Cafe_POS.Properties.Resources.resources
+E:\AIUB\Class\C#\Project\Cafe POS\Cafe POS\obj\Debug\Cafe POS.csproj.GenerateResource.cache
+E:\AIUB\Class\C#\Project\Cafe POS\Cafe POS\obj\Debug\Cafe POS.csproj.CoreCompileInputs.cache
+E:\AIUB\Class\C#\Project\Cafe POS\Cafe POS\obj\Debug\Cafe POS.exe
+E:\AIUB\Class\C#\Project\Cafe POS\Cafe POS\obj\Debug\Cafe POS.pdb
+E:\AIUB\Class\C#\Project\Cafe POS\Cafe POS\obj\Debug\Cafe POS.exe.config
+E:\AIUB\Class\C#\Project\Cafe POS\Cafe POS\obj\Debug\Cafe_POS.Menu.resources
+E:\AIUB\Class\C#\Project\Practice\Cafe POS\Cafe POS\bin\Debug\Cafe POS.exe.config
+E:\AIUB\Class\C#\Project\Practice\Cafe POS\Cafe POS\bin\Debug\Cafe POS.exe
+E:\AIUB\Class\C#\Project\Practice\Cafe POS\Cafe POS\bin\Debug\Cafe POS.pdb
+E:\AIUB\Class\C#\Project\Practice\Cafe POS\Cafe POS\obj\Debug\Cafe POS.csproj.AssemblyReference.cache
+E:\AIUB\Class\C#\Project\Practice\Cafe POS\Cafe POS\obj\Debug\Cafe_POS.LogIn.resources
+E:\AIUB\Class\C#\Project\Practice\Cafe POS\Cafe POS\obj\Debug\Cafe_POS.Menu.resources
+E:\AIUB\Class\C#\Project\Practice\Cafe POS\Cafe POS\obj\Debug\Cafe_POS.Properties.Resources.resources
+E:\AIUB\Class\C#\Project\Practice\Cafe POS\Cafe POS\obj\Debug\Cafe POS.csproj.GenerateResource.cache
+E:\AIUB\Class\C#\Project\Practice\Cafe POS\Cafe POS\obj\Debug\Cafe POS.csproj.CoreCompileInputs.cache
+E:\AIUB\Class\C#\Project\Practice\Cafe POS\Cafe POS\obj\Debug\Cafe POS.exe
+E:\AIUB\Class\C#\Project\Practice\Cafe POS\Cafe POS\obj\Debug\Cafe POS.pdb
+C:\Users\Admin\Downloads\Cafe POS\Cafe POS\obj\Debug\Cafe POS.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Cafe POS\Cafe POS\obj\Debug\Cafe POS.exe.config
+C:\Users\Admin\Downloads\Cafe POS\Cafe POS\obj\Debug\Cafe_POS.LogIn.resources
+C:\Users\Admin\Downloads\Cafe POS\Cafe POS\obj\Debug\Cafe_POS.Main.resources
+C:\Users\Admin\Downloads\Cafe POS\Cafe POS\obj\Debug\Cafe_POS.Menu.resources
+C:\Users\Admin\Downloads\Cafe POS\Cafe POS\obj\Debug\Cafe_POS.Properties.Resources.resources
+C:\Users\Admin\Downloads\Cafe POS\Cafe POS\obj\Debug\Cafe POS.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Cafe POS\Cafe POS\obj\Debug\Cafe POS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Cafe POS\Cafe POS\obj\Debug\Cafe POS.exe
+C:\Users\Admin\Downloads\Cafe POS\Cafe POS\obj\Debug\Cafe POS.pdb
+C:\Users\Admin\Downloads\Cafe POS\Cafe POS\bin\Debug\Cafe POS.exe.config
+C:\Users\Admin\Downloads\Cafe POS\Cafe POS\bin\Debug\Cafe POS.exe
+C:\Users\Admin\Downloads\Cafe POS\Cafe POS\bin\Debug\Cafe POS.pdb
+C:\Users\Admin\Downloads\Cafe POS\Cafe POS\obj\Debug\Cafe_POS.Dashboard.resources
+C:\Users\Admin\Downloads\Cafe POS\Cafe POS\obj\Debug\Cafe_POS.Employee.resources
+C:\Users\Admin\Downloads\Cafe POS\Cafe POS\obj\Debug\Cafe_POS.InventoryF.resources
+C:\Users\Admin\Downloads\Cafe POS\Cafe POS\obj\Debug\Cafe_POS.ProductCard.resources
+C:\Users\Admin\Downloads\Cafe POS\Cafe POS\obj\Debug\Cafe_POS.Order.resources
+C:\Users\Admin\Downloads\Cafe POS\Cafe POS\obj\Debug\Cafe_POS.Analysis.resources
+E:\AIUB\Class\C#\Project\Cafe POS\Cafe POS\obj\Debug\Cafe_POS.Analysis.resources
+E:\AIUB\Class\C#\Project\Cafe POS\Cafe POS\obj\Debug\Cafe_POS.Dashboard.resources
+E:\AIUB\Class\C#\Project\Cafe POS\Cafe POS\obj\Debug\Cafe_POS.Employee.resources
+E:\AIUB\Class\C#\Project\Cafe POS\Cafe POS\obj\Debug\Cafe_POS.InventoryF.resources
+E:\AIUB\Class\C#\Project\Cafe POS\Cafe POS\obj\Debug\Cafe_POS.Main.resources
+E:\AIUB\Class\C#\Project\Cafe POS\Cafe POS\obj\Debug\Cafe_POS.Order.resources
+E:\AIUB\Class\C#\Project\Cafe POS\Cafe POS\obj\Debug\Cafe_POS.ProductCard.resources
+E:\AIUB\Class\C#\Project\Practice\Cafe POS\Cafe POS\obj\Debug\Cafe_POS.Analysis.resources
+E:\AIUB\Class\C#\Project\Practice\Cafe POS\Cafe POS\obj\Debug\Cafe_POS.Dashboard.resources
+E:\AIUB\Class\C#\Project\Practice\Cafe POS\Cafe POS\obj\Debug\Cafe_POS.Employee.resources
+E:\AIUB\Class\C#\Project\Practice\Cafe POS\Cafe POS\obj\Debug\Cafe_POS.InventoryF.resources
+E:\AIUB\Class\C#\Project\Practice\Cafe POS\Cafe POS\obj\Debug\Cafe_POS.Main.resources
+E:\AIUB\Class\C#\Project\Practice\Cafe POS\Cafe POS\obj\Debug\Cafe_POS.Order.resources
+E:\AIUB\Class\C#\Project\Practice\Cafe POS\Cafe POS\obj\Debug\Cafe_POS.ProductCard.resources
+E:\AIUB\Class\C#\Project\Practice\Cafe POS\Cafe POS\obj\Debug\Cafe_POS.Admin.resources
+E:\AIUB\Class\C#\Project\Practice\Cafe POS\Cafe POS\obj\Debug\Cafe_POS.ItemPanel.resources
+E:\AIUB\Class\C#\Project\Practice\Cafe POS\Cafe POS\obj\Debug\Cafe_POS.AdminProfile.resources
+E:\Cafe POS\Cafe POS\obj\Debug\Cafe POS.csproj.AssemblyReference.cache
+E:\Cafe POS\Cafe POS\obj\Debug\Cafe POS.exe.config
+E:\Cafe POS\Cafe POS\obj\Debug\Cafe POS.exe
+E:\Cafe POS\Cafe POS\obj\Debug\Cafe POS.pdb
+E:\Cafe POS\Cafe POS\bin\Debug\Cafe POS.exe.config
+E:\Cafe POS\Cafe POS\bin\Debug\Cafe POS.exe
+E:\Cafe POS\Cafe POS\bin\Debug\Cafe POS.pdb
+E:\Cafe POS\Cafe POS\obj\Debug\Cafe_POS.Admin.resources
+E:\Cafe POS\Cafe POS\obj\Debug\Cafe_POS.AdminProfile.resources
+E:\Cafe POS\Cafe POS\obj\Debug\Cafe_POS.Analysis.resources
+E:\Cafe POS\Cafe POS\obj\Debug\Cafe_POS.Dashboard.resources
+E:\Cafe POS\Cafe POS\obj\Debug\Cafe_POS.Employee.resources
+E:\Cafe POS\Cafe POS\obj\Debug\Cafe_POS.InventoryF.resources
+E:\Cafe POS\Cafe POS\obj\Debug\Cafe_POS.ItemPanel.resources
+E:\Cafe POS\Cafe POS\obj\Debug\Cafe_POS.LogIn.resources
+E:\Cafe POS\Cafe POS\obj\Debug\Cafe_POS.Main.resources
+E:\Cafe POS\Cafe POS\obj\Debug\Cafe_POS.Order.resources
+E:\Cafe POS\Cafe POS\obj\Debug\Cafe_POS.ProductCard.resources
+E:\Cafe POS\Cafe POS\obj\Debug\Cafe_POS.Properties.Resources.resources
+E:\Cafe POS\Cafe POS\obj\Debug\Cafe_POS.SoldItem.resources
+E:\Cafe POS\Cafe POS\obj\Debug\Cafe POS.csproj.GenerateResource.cache
+E:\Cafe POS\Cafe POS\obj\Debug\Cafe POS.csproj.CoreCompileInputs.cache
+E:\Cafe POS\Cafe POS\obj\Debug\Cafe_POS.Menu.resources
+E:\AIUB\Class\C#\Project\Practice\Cafe POS\Cafe POS\obj\Debug\Cafe POS.exe.config
