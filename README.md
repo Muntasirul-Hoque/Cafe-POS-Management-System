@@ -44,6 +44,6 @@ The system architecture is backed by a database normalized up to the Second Norm
 **Supervised By:** Noboranjan Dey  
 **Institution:** American International University-Bangladesh (AIUB)  
 **Course:** CSC 2210: Object Oriented Programming 2 (Fall 2025-2026)
-<img src="Cafe POS.gif" width="600" alt="Cafe POS Demo">
+![Cafe POS Demo](Cafe POS.gif)
 
 
