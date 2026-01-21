@@ -1,4 +1,4 @@
-# ☕ Café POS Management System
+![Cafe POS](https://github.com/user-attachments/assets/3ae7a81f-4595-43dc-b3c2-bab84778e72d)# ☕ Café POS Management System
 
 A robust, desktop-based Point of Sale (POS) solution built with **C#** and **.NET**, designed to streamline cafe operations through automated inventory tracking and role-based management.
 
@@ -44,5 +44,6 @@ The system architecture is backed by a database normalized up to the Second Norm
 **Supervised By:** Noboranjan Dey  
 **Institution:** American International University-Bangladesh (AIUB)  
 **Course:** CSC 2210: Object Oriented Programming 2 (Fall 2025-2026)
-* **Order Processing**: Efficiently handle dine-in and takeaway orders.![Uploading ezgif.com-animated-gif-maker.gif…]()
+<img src="Cafe POS.gif" width="600" alt="Cafe POS Demo">
+
 
