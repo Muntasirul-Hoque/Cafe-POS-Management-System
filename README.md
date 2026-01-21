@@ -37,10 +37,10 @@
 ## 📝 Contributors (Group 03)
 | Name | ID |
 | :--- | :--- |
-| **Muntasirul Hoque** | [cite_start]23-53907-3 [cite: 13] |
-| **Rifat Bin Halim** | [cite_start]23-54711-3 [cite: 13] |
-| **Md Abu Saieed** | [cite_start]23-54744-3 [cite: 13] |
-| **Md Fahim Hossain Khan** | [cite_start]24-56561-1 [cite: 13] |
+| **Muntasirul Hoque** | 23-53907-3 
+| **Rifat Bin Halim** | 23-54711-3 
+| **Md Abu Saieed** | 23-54744-3 
+| **Md Fahim Hossain Khan** | [cite_start]24-56561-1
 
 ---
-[cite_start]**Supervised By:** Noboranjan Dey, Dept. of Computer Science, AIUB[cite: 6, 15].
+**Supervised By:** Noboranjan Dey, Dept. of Computer Science, AIUB.
