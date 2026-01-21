@@ -44,3 +44,5 @@ The system architecture is backed by a database normalized up to the Second Norm
 **Supervised By:** Noboranjan Dey  
 **Institution:** American International University-Bangladesh (AIUB)  
 **Course:** CSC 2210: Object Oriented Programming 2 (Fall 2025-2026)
+* **Order Processing**: Efficiently handle dine-in and takeaway orders.![Uploading ezgif.com-animated-gif-maker.gif…]()
+
